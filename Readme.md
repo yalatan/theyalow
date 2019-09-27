@@ -1,4 +1,4 @@
-NO RESPOVSIVE. ONLY Desctop 1300px and Mobile 590-700px
+NO RESPONSIVE. ONLY Desctop 1300px and Mobile 590-700px
 
 
 
